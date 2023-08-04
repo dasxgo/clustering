@@ -1,4 +1,4 @@
-# Machine learning Clustering Models
+# Machine Learning Clustering Models
 
 - KMEANS
 - DBSCAN
