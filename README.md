@@ -2,4 +2,5 @@
 
 - KMEANS
 - DBSCAN
+- HIERARCHICAL
   
