@@ -1,2 +1,5 @@
-# clustering
-ML - Clustering
+# Machine learning clustering
+
+- KMEANS
+- DBSCAN
+  
