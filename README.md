@@ -1,6 +1,10 @@
-# Machine Learning Clustering Models
+# Clustering Models
+Machine learning clustering models
 
-- KMEANS
-- DBSCAN
-- HIERARCHICAL
+## Use
+
+- KMeans
+- Dbscan
+- Hierarchical
+  
   
