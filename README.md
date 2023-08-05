@@ -1,7 +1,7 @@
 # Clustering Models
 Machine learning clustering models
 
-## Use
+## Contents
 - KMeans
 - Dbscan
 - Hierarchical
